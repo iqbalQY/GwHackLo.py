@@ -95,10 +95,10 @@ while (loop == 'true'):
             loop = 'false'
         else:
             print "yang bener dong"
-            os.system('xdg-open https://www.youtube.com/channel/UCJRsXsoiWHqBysdGXEjl8Hg')
+            os.system('xdg-open https://youtu.be/E5YMb3qHnfw')
     else:
         print "salah sayang!"
-        os.system('xdg-open https://www.youtube.com/channel/UCJRsXsoiWHqBysdGXEjl8Hg')
+        os.system('xdg-open https://youtu.be/E5YMb3qHnfw')
 
 def login():
 	os.system('clear')
